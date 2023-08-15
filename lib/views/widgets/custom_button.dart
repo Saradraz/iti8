@@ -18,7 +18,7 @@
 //   Widget build(BuildContext context) {
 //     return
 //      InkWell(
-//       onTap: Widget.ontap,
+//       onTap:widget.ontap,
 //       child: Padding(
 //         padding: const EdgeInsets.all(8.0),
 //         child: Container(
